@@ -1,4 +1,7 @@
-#!venv/bin/python3
+#!/usr/bin/python3
+
+# daniel-rakhmonov
+
 from bs4 import BeautifulSoup
 from os import system
 import urllib.request
