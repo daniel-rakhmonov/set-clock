@@ -9,8 +9,8 @@ This program will do it for you!
 
 $ cd ~/location_where_the_set-clock_directory_is/set-clock/
 $ chmod +x set_clock.py config.sh
-$ ./config.sh
-$ ./set_clock.py
+$ sudo ./config.sh
+$ sudo ./set_clock.py
 
 If you don't have pip3
 Install with the command: 
